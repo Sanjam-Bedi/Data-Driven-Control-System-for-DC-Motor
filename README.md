@@ -161,5 +161,8 @@ is used to get the desired response of
 the DC motor.
 The tuned values are coming as follows:
 Kp=0.825, Ki = 0.0423, Kd =2.156
+## Authors
+- Aryaman : [@Aryaman-Arya](https://github.com/Aryaman-Arya)
+- Sanjam Kaur Bedi : [@Sanjam-Bedi](https://github.com/Sanjam-Bedi)
 
 
